@@ -1,9 +1,11 @@
-Assignment 1-9
+ <img width="458" height="260" alt="image" src="https://github.com/user-attachments/assets/bf7ad426-c0a8-475f-85ee-94143b1cbde9" />
 
-![Thapar Institute Logo](https://img.collegepravesh.com/2018/04/TIET-Patiala-Logo.png)
 
-Name- Maanya Singla
+Course: OBJECT ORIENTED PROGRAMMING PRATICES   
+Course Code: UNC-302   
+JAN-MAY 2026    
 
-Roll Number- 1024150350
-
-Batch- 2O31
+SUMITTED BY :-    
+Name: MAANYA SINGLA
+Roll. No.: 1024150350
+Batch : 2O31   

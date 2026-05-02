@@ -1,5 +1,5 @@
-#include<iostream>
-using namespace std;
+//#include<iostream>
+//using namespace std;
 //Q1
 // template<class T>
 // void swapval(T& a, T& b){

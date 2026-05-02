@@ -1,6 +1,7 @@
+
+//Q1
 //#include<iostream>
 //using namespace std;
-//Q1
 // template<class T>
 // void swapval(T& a, T& b){
 //     T temp = a;
@@ -79,7 +80,7 @@
 //     templateProcess("Tanish","Arora");
 // }
 //3
-template<class T1,class T2>
+/*template<class T1,class T2>
 void templateProcess(T1 a,T2 b){
     cout<<"the first value is "<<a<<endl;
     cout<<"the second value is"<<b<<endl;
@@ -87,7 +88,7 @@ void templateProcess(T1 a,T2 b){
 int main(){
     templateProcess(2,4);
     templateProcess("tanish",3);
-}
+}*/
 //class template
 //Q1
 // template <class T>
